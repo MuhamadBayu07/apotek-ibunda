@@ -96,7 +96,6 @@
     <div class="main-header">
       <div class="container-fluid container-xl">
         <div class="d-flex py-3 align-items-center justify-content-between">
-
           <!-- Logo -->
           <a href="index.html" class="logo d-flex align-items-center">
             <!-- Uncomment the line below if you also wish to use an image logo -->
